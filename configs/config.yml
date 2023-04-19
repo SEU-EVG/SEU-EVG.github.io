@@ -18,6 +18,16 @@ schedules:
       - title: Slides
         url: /slides/2023.4.19-组会报告-赵文哲.pdf
 
+  - title: "[NSDI'22] Swift: Adaptive Video Streaming with Layered Neural Codecs"
+    conf: "NSDI'22"
+    presenter: 陈柏均
+    date: Mar 22, 2023.
+    links:
+      - title: TencentMeeting
+        url: https://meeting.tencent.com/dm/zzFuBnZoHXp9
+      - title: Slides
+        url: /slides/2023.3.21-组会报告-陈柏均.pdf
+
   - title: "[INFOCOM'22] Batch Adaptative Streaming for Video Analytics"
     conf: "INFOCOM'22"
     presenter: 徐振轩
